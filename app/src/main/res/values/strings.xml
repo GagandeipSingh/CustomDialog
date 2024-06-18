@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomDialog</string>
+    <string name="hello">Hello!!</string>
+    <string name="enter_your_name">Enter Your Name..</string>
+    <string name="ok">OK</string>
+    <string name="custom_dialog">Custom Dialog</string>
+</resources>
